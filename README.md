@@ -3,7 +3,8 @@
 <!-- LOGO -->
 <div align="center">
   <h3>JPGConverter</h3>
-  
+  <img src="https://i.ibb.co/hZxBpnk/jpg-converter-128x128.png" alt="jpg-converter-128x128">
+
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
 </div>
 
