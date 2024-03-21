@@ -22,7 +22,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Converts image files into JPG format.
+Converts image files into JPG format and optionally compresses them.
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
