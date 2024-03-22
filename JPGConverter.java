@@ -28,12 +28,12 @@ public class JPGConverter {
   /**
    * Source directory.
    */
-  private static final File source = new File("C:\\Users\\ndann\\Desktop\\old");
+  private static final File source = new File("SOURCE DIRECTORY");
 
   /**
    * Target directory.
    */
-  private static final File target = new File("C:\\Users\\ndann\\Desktop\\new");
+  private static final File target = new File("TARGET DIRECTORY");
 
   /**
    * Image quality.
