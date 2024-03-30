@@ -23,7 +23,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Converts image files into JPG format and optionally compresses them.
+Converts image files into JPG format and optionally compresses them with optional multi-threading.
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -31,11 +31,12 @@ Converts image files into JPG format and optionally compresses them.
 ## Setup
 1. Clone the repo.
 2. Find the directory you want to convert, then copy its address as text.
-3. Paste the address for the value of the variable `source` on line 31.
+3. Paste the address for the value of the variable `source` on line 34.
 4. Either find or create a target directory, then copy its address as text.
-5. Paste the address for the value of the variable `target` on line 36.
-6. Optionally, adjust the image `quality` on line 43.
-7. Run the program.
+5. Paste the address for the value of the variable `target` on line 39.
+6. Optionally, adjust the image `quality` on line 46.
+7. Optionally, adjust the `threads` to use on line 51.
+8. Run the program.
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
