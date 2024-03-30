@@ -223,6 +223,6 @@ public class JPGConverter {
   private static String millisecondsToMinutesSeconds(long duration) {
     long minutes = duration / 60000L % 60;
     long seconds = duration / 1000L % 60;
-    return ((minutes == 0 ? "" : minutes + "m ") + (seconds == 0 ? "" : seconds + "s ")).trim();
+    return ((minutes == 0 ? "" : minutes + "m ") + (seconds == 0 ? "0s" : seconds + "s ")).trim();
   }
 }
