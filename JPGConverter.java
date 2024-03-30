@@ -94,7 +94,7 @@ public class JPGConverter {
     startTasks(fileGroups);
 
     long end = System.currentTimeMillis();
-    System.out.println("Converted " + conversions + " images in " + millisecondsToMinutesSeconds(end - start).trim() + ".");
+    System.out.println("Converted " + conversions + " images in " + millisecondsToMinutesSeconds(end - start) + ".");
   }
 
   /**
@@ -223,6 +223,6 @@ public class JPGConverter {
   private static String millisecondsToMinutesSeconds(long duration) {
     long minutes = duration / 60000L % 60;
     long seconds = duration / 1000L % 60;
-    return (minutes == 0 ? "" : minutes + "m ") + (seconds == 0 ? "" : seconds + "s ");
+    return ((minutes == 0 ? "" : minutes + "m ") + (seconds == 0 ? "" : seconds + "s ")).trim();
   }
 }
