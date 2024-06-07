@@ -40,6 +40,14 @@ Converts image files into JPG format and optionally compresses them with the cho
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
+<!-- USAGE -->
+## Usage
+Shown below is a picture of my own usage of the program converting a large amount of .png photos to 70% quality .jpg photos with unnoticeable image quality loss.
+
+<img src="https://i.ibb.co/3kk8dmM/jpgconverter-before-after.jpg" alt="jpgconverter-before-after">
+
+<p align="right"><a href="#top">Back to Top</a></p>
+
 <!-- CONTRIBUTING -->
 ## Contributing
 1. Fork the Project
