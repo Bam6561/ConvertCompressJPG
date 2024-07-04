@@ -12,14 +12,12 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * JPGConverter converts image files from a source
- * directory and its subdirectories into a .jpg format.
+ * Converts image files from a source directory and its subdirectories into a .jpg format.
  * <p>
  * Converted images are stored in the {@link #target target directory}
  * with the same file structure as the {@link #source source directory}.
  * <p>
- * Optionally, the images can also be compressed
- * by adjusting the {@link #quality} value.
+ * Optionally, the images can also be compressed by adjusting the {@link #quality} value.
  * <p>
  * By default, the number of {@link #threads} to use is 1.
  *
