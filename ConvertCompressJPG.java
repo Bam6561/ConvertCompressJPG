@@ -27,7 +27,7 @@ import java.util.List;
  * @version 1.3.0
  * @since 1.0
  */
-public class JPGConverter {
+public class ConvertCompressJPG {
   /**
    * Source directory.
    */
