@@ -2,7 +2,7 @@
 
 <!-- LOGO -->
 <div align="center">
-  <h3>JPGConverter</h3>
+  <h3>Convert Compress JPG</h3>
   <img src="https://i.ibb.co/hZxBpnk/jpg-converter-128x128.png" alt="jpg-converter-128x128">
 
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
@@ -69,7 +69,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmail.com
 
-Project Link: <https://github.com/Bam6561/JPGConverter>
+Project Link: <https://github.com/Bam6561/ConvertCompressJPG>
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -80,7 +80,7 @@ Project Link: <https://github.com/Bam6561/JPGConverter>
 <p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- SHIELDS -->
-[stars-shield]: https://img.shields.io/github/stars/Bam6561/JPGConverter
-[stars-url]: https://github.com/Bam6561/JPGConverter/stargazers
-[license-shield]: https://img.shields.io/github/license/Bam6561/JPGConverter
-[license-url]: https://github.com/Bam6561/JPGConverter/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/Bam6561/ConvertCompressJPG
+[stars-url]: https://github.com/Bam6561/ConvertCompressJPG/stargazers
+[license-shield]: https://img.shields.io/github/license/Bam6561/ConvertCompressJPG
+[license-url]: https://github.com/Bam6561/ConvertCompressJPG/blob/main/LICENSE
