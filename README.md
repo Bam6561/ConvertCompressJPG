@@ -24,7 +24,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Converts image files in a directory and its subdirectories into JPG format and optionally compresses them with the choice of multi-threading.
+Converts image files in a directory and its subdirectories into JPG format. 
+
+Optionally compresses them with the choice of multi-threading.
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
