@@ -54,8 +54,8 @@ public class ConvertCompressJPG {
   private static int conversions = 0;
 
   /**
-   * Checks if the {@link #source}, {@link #target}, {@link #quality},
-   * and {@link #threads} inputs are valid before parsing the file system.
+   * Checks if the {@link #source}, {@link #target}, {@link #quality}, and 
+   * {@link #threads} inputs are valid before traversing the file system.
    *
    * @param args user provided parameters
    */
