@@ -12,7 +12,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Converts image files from a source directory and its subdirectories into a .jpg format.
+ * Converts images into JPG format from a directory and its subdirectories.
  * <p>
  * Converted images are stored in the {@link #target target directory}
  * with the same file structure as the {@link #source source directory}.
